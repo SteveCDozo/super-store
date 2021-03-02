@@ -1,4 +1,4 @@
-# SuperStore #
+# super-store #
 
 This is the first guided project from https://guidedprojects.dev/
 
