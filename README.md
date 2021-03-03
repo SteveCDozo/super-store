@@ -1,4 +1,7 @@
-# SuperStore #
+<h1>
+  <img src="public/favicon.ico" align="left" />
+  Superstore
+</h1>
 
 This is the first guided project from [guidedprojects.dev](https://guidedprojects.dev/)
 
